@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:d98eff,100:8c52ff&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Programmer+%E2%80%A2+Linux+Enthusiast;Cybersecurity+Learner+%E2%80%A2+Builder;C+%2F+C%2B%2B+%2F+Parrot+OS+%2F+HTB&font=JetBrains+Mono&weight=600&size=22&color=D98EFF&center=true&vCenter=true&width=760&height=45" alt="typing banner">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Programmer+%E2%80%A2+Linux+Enthusiast;Cybersecurity+Learner+%E2%80%A2+Builder;C+%2F+C%2B%2B+%2F+Parrot+OS+%2F+HTB&font=JetBrains+Mono&weight=600&size=20&color=D98EFF&center=true&vCenter=true&width=900&height=45" alt="typing banner">
 
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-HamzaBenMohamd-0d1117?style=for-the-badge&logo=github&logoColor=d98eff)](https://github.com/HamzaBenMohamd)
-[![Boot.dev](https://img.shields.io/badge/Boot.dev-Backend_Path-0d1117?style=for-the-badge&logo=go&logoColor=d98eff)](https://www.boot.dev/u/tilmide)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-Backend_Path-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZDk4ZWZmIiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAxN2w1LTUtNS01Ii8+PHBhdGggZD0iTTEyIDE5aDgiLz48L3N2Zz4=)](https://www.boot.dev/u/tilmide)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-CJCA_Track-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.com/)
 
 <br>
