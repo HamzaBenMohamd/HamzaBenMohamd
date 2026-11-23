@@ -86,7 +86,7 @@
 
 <div align="center">
 
-<i>Always learning. Always building.</i>
+<i>To get something you never had, you have to do something you never did.</i>
 
 <br>
 
