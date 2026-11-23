@@ -6,7 +6,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Ben_Mohamd-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzM4QkRGOCI+PHBhdGggZD0iTTE5IDNoLTE0Yy0xLjEgMC0yIC45LTItMnYxNGMwIDEuMS45IDIgMiAyaDE0YzEuMSAwIDItLjkgMi0ydi0xNGMwLTEuMS0uOS0yLTItMnpNOCAxOWgtM1YtOGgzdjV6TTYuNSA2Ljc0Yy0uOTYgMC0xLjc0LS43OC0xLjc0LTEuNzRzLjc4LTEuNzQgMS43NC0xLjc0IDEuNzQuNzggMS43NCAxLjc0LS43OSAxLjc0LTEuNzQgMS43NHpNMTkgMTloLTN2LTUuNmMwLTEuMzMtLjAzLTMuMDQtMS44NS0zLjA0LTEuODUgMC0yLjEzIDEuNDUtMi4xMyAyLjk0VjE5aC0zVi04aDIuODh2MS4zMmguMDRjLjQtLjc2IDEuMzgtMS41NiAyLjg0LTEuNTYgMy4wNCAwIDMuNiAyIDMuNiA0LjZWMTl6Ii8+PC9zdmc+)](https://www.linkedin.com/in/hamza-benmohamd-b0a953327/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Ben_Mohamd-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/hamza-benmohamd-b0a953327/)
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-Backend_Path-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzhCREY4IiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAxN2w1LTUtNS01Ii8+PHBhdGggZD0iTTEyIDE5aDgiLz48L3N2Zz4=)](https://www.boot.dev/u/tilmide)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-CJCA_Track-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019f9a17-118c-7162-aaed-5ed9fbb47501?utm_medium=copy_url)
 
