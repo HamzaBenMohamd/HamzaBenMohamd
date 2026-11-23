@@ -7,6 +7,7 @@
 <br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-HamzaBenMohamd-0d1117?style=for-the-badge&logo=github&logoColor=d98eff)](https://github.com/HamzaBenMohamd)
+[![Boot.dev](https://img.shields.io/badge/Boot.dev-Backend_Path-0d1117?style=for-the-badge&logo=go&logoColor=d98eff)](https://www.boot.dev/u/tilmide)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-CJCA_Track-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.com/)
 
 <br>
@@ -40,6 +41,7 @@
 
 - 🛡️ **Hack The Box Labs & CJCA Prep:** Hands-on machine exploitation (including boxes like *Lame* and *Blue*) and structured cybersecurity training.
 - 🧩 **Algorithmic & C Problem Solving:** Continuous practice in low-level data structures, pointers, and edge-case debugging.
+- ⚙️ **Web & Backend Foundations:** Strengthening backend and web architecture skills via [Boot.dev](https://www.boot.dev/u/tilmide) so I can approach **web security** with a clear understanding of how applications work under the hood.
 - 📚 **Continuous Skill Growth:** Sharpening technical English toward **B2**, strengthening Go and systems fundamentals, and staying consistent with daily habits and calisthenics.
 
 ---
