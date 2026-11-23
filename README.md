@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:d98eff,100:8c52ff&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Programmer+%E2%80%A2+Linux+Enthusiast;Cybersecurity+Learner+%E2%80%A2+Builder;C+%2F+C%2B%2B+%2F+Python+%2F+HTB&font=JetBrains+Mono&weight=600&size=22&color=D98EFF&center=true&vCenter=true&width=760&height=45" alt="typing banner">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Programmer+%E2%80%A2+Linux+Enthusiast;Cybersecurity+Learner+%E2%80%A2+Builder;C+%2F+C%2B%2B+%2F+Parrot+OS+%2F+HTB&font=JetBrains+Mono&weight=600&size=22&color=D98EFF&center=true&vCenter=true&width=760&height=45" alt="typing banner">
 
 <br>
 
@@ -21,9 +21,9 @@
 ## 👨‍💻 About Me
 
 - 🛠️ **Systems & Low-Level Programming:** Building software from scratch in **C & C++**, focusing on memory management, network programming, and operating system internals.
+- 🌐 **Backend → Web Security:** Building solid backend and web fundamentals on [Boot.dev](https://www.boot.dev/u/tilmide) as a foundation before diving deeper into web security.
 - 🔐 **Cybersecurity & Recon:** Practicing penetration testing and network diagnostics on **Hack The Box** (working toward **HTB CJCA**) using Linux, packet inspection, and recon tooling.
 - 🐧 **Daily Environment:** Dual-booting **Parrot OS** and **Windows 11**, working with shell scripting, Dockerized services, and hands-on lab setups.
-- 🧠 **First-Principles Mindset:** Breaking down how code, sockets, and systems behave under the hood rather than relying on black-box shortcuts.
 
 ---
 
@@ -41,8 +41,8 @@
 
 - 🛡️ **Hack The Box Labs & CJCA Prep:** Hands-on machine exploitation (including boxes like *Lame* and *Blue*) and structured cybersecurity training.
 - 🧩 **Algorithmic & C Problem Solving:** Continuous practice in low-level data structures, pointers, and edge-case debugging.
-- ⚙️ **Web & Backend Foundations:** Strengthening backend and web architecture skills via [Boot.dev](https://www.boot.dev/u/tilmide) so I can approach **web security** with a clear understanding of how applications work under the hood.
-- 📚 **Continuous Skill Growth:** Sharpening technical English toward **B2**, strengthening Go and systems fundamentals, and staying consistent with daily habits and calisthenics.
+- ⚙️ **Web & Backend Foundations:** Strengthening backend and web architecture skills via [Boot.dev](https://www.boot.dev/u/tilmide) on the path toward web security.
+- 📚 **Continuous Skill Growth:** Sharpening technical English toward **B2** and staying consistent with daily habits and calisthenics.
 
 ---
 
