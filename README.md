@@ -1,20 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:d98eff,100:8c52ff&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:38bdf8,100:6366f1&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0284c7,100:7c3aed&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Programmer+%E2%80%A2+Linux+Enthusiast;Cybersecurity+Learner+%E2%80%A2+Builder;C+%2F+C%2B%2B+%2F+Python+%2F+HTB&font=JetBrains+Mono&weight=600&size=20&color=D98EFF&center=true&vCenter=true&width=900&height=45" alt="typing banner">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Programmer+%E2%80%A2+Linux+Enthusiast;Cybersecurity+Learner+%E2%80%A2+Builder;C+%2F+C%2B%2B+%2F+Python+%2F+HTB&font=JetBrains+Mono&weight=600&size=20&color=38BDF8&center=true&vCenter=true&width=900&height=45" alt="typing banner">
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-HamzaBenMohamd-0d1117?style=for-the-badge&logo=github&logoColor=d98eff)](https://github.com/HamzaBenMohamd)
+[![GitHub](https://img.shields.io/badge/GitHub-HamzaBenMohamd-0d1117?style=for-the-badge&logo=github&logoColor=38BDF8)](https://github.com/HamzaBenMohamd)
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-Backend_Path-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzhCREY4IiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAxN2w1LTUtNS01Ii8+PHBhdGggZD0iTTEyIDE5aDgiLz48L3N2Zz4=)](https://www.boot.dev/u/tilmide)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-CJCA_Track-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019f9a17-118c-7162-aaed-5ed9fbb47501?utm_medium=copy_url)
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=HamzaBenMohamd&style=flat&color=d98eff&label=profile+views" alt="profile views">
+<img src="https://komarev.com/ghpvc/?username=HamzaBenMohamd&style=flat&color=38BDF8&label=profile+views" alt="profile views">
 
 </div>
 
@@ -51,21 +49,21 @@
 ## 💻 Tech Stack & Security Tools
 
 ### Languages & Scripting
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=d98eff)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=d98eff)
-![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=d98eff)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=d98eff)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=d98eff)
+![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=38BDF8)
+![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=38BDF8)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=38BDF8)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=38BDF8)
+![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=38BDF8)
 
 ### Systems, Containers & Dev Workflow
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=d98eff)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-0d1117?style=for-the-badge&logo=parrotsecurity&logoColor=d98eff)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=d98eff)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=d98eff)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=d98eff)
+![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=2DD4BF)
+![Parrot OS](https://img.shields.io/badge/Parrot_OS-0d1117?style=for-the-badge&logo=parrotsecurity&logoColor=2DD4BF)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2DD4BF)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=2DD4BF)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2DD4BF)
 
 ### Security & Networking Labs
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=d98eff)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=38BDF8)
 ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=linux&logoColor=9FEF00)
 ![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=9FEF00)
 ![Hack The Box](https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
@@ -76,11 +74,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.shion.dev/api?username=HamzaBenMohamd&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.shion.dev/api?username=HamzaBenMohamd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 <br>
-<img src="https://streak-stats.demolab.com/?user=HamzaBenMohamd&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=HamzaBenMohamd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 <br>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamzaBenMohamd&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamzaBenMohamd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 
 </div>
 
@@ -92,6 +90,6 @@
 
 <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:d98eff,100:8c52ff&height=140&section=footer&animation=fadeIn" alt="footer wave" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0284c7,100:7c3aed&height=140&section=footer&animation=fadeIn" alt="footer wave" />
 
 </div>
