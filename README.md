@@ -1,7 +1,8 @@
 <div align="center">
 
-<--! <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:d98eff,100:8c52ff&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave"> -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb6d9,50:d98eff,100:8c52ff&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2dd4bf,50:38bdf8,100:6366f1&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0284c7,100:7c3aed&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Programmer+%E2%80%A2+Linux+Enthusiast;Cybersecurity+Learner+%E2%80%A2+Builder;C+%2F+C%2B%2B+%2F+Python+%2F+HTB&font=JetBrains+Mono&weight=600&size=20&color=D98EFF&center=true&vCenter=true&width=900&height=45" alt="typing banner">
 
