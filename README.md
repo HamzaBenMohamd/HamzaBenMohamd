@@ -7,7 +7,7 @@
 <br>
 
 [![Email](https://img.shields.io/badge/Email-hamza.ben.mohamd.main@gmail.com-0d1117?style=for-the-badge&logo=gmail&logoColor=38BDF8)](mailto:hamza.ben.mohamd.main@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Ben_Mohamd-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/hamza-benmohamd-b0a953327/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_BenMohamd-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/hamza-benmohamd-b0a953327/)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-CJCA_Path-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019f9a17-118c-7162-aaed-5ed9fbb47501?utm_medium=copy_url)
 [![Boot.dev](https://img.shields.io/badge/Boot.dev-Backend_Path-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzhCREY4IiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAxN2w1LTUtNS01Ii8+PHBhdGggZD0iTTEyIDE5aDgiLz48L3N2Zz4=)](https://www.boot.dev/u/tilmide)
 
