@@ -1,95 +1,55 @@
-<div align="center">
+# Hi, I'm Hamza 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0284c7,100:7c3aed&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
+**Junior software & security engineer.** I write low-level C/C++ and Python, build network services from scratch, and break things on purpose to learn how they fail.
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Systems+Programmer+%E2%80%A2+Linux+Enthusiast;Cybersecurity+Learner+%E2%80%A2+Builder;C+%2F+C%2B%2B+%2F+Python+%2F+HTB&font=JetBrains+Mono&weight=600&size=20&color=38BDF8&center=true&vCenter=true&width=900&height=45" alt="typing banner">
+Student at **1337 (42 Network)**, Morocco. Looking for **remote roles, internships, and freelance work** in systems, backend, or security.
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hamza_Ben_Mohamd-0d1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8)](https://www.linkedin.com/in/hamza-benmohamd-b0a953327/)
-[![Boot.dev](https://img.shields.io/badge/Boot.dev-Backend_Path-0d1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjMzhCREY4IiBzdHJva2Utd2lkdGg9IjIuNSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOCAxN2w1LTUtNS01Ii8+PHBhdGggZD0iTTEyIDE5aDgiLz48L3N2Zz4=)](https://www.boot.dev/u/tilmide)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-CJCA_Track-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://profile.hackthebox.com/profile/019f9a17-118c-7162-aaed-5ed9fbb47501?utm_medium=copy_url)
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=HamzaBenMohamd&style=flat&color=38BDF8&label=profile+views" alt="profile views">
-
-</div>
+📫 **[your@email.com](mailto:your@email.com)** · [LinkedIn](https://linkedin.com/in/…) · [CV (PDF)](…)
 
 ---
 
-## 👨‍💻 About Me
+## What I do
 
-- 🛠️ **Systems & Low-Level Programming:** Building software from scratch in **C & C++**, focusing on memory management, network programming, and operating system internals.
-- 🌐 **Backend → Web Security:** Building solid backend and web fundamentals on [Boot.dev](https://www.boot.dev/u/tilmide) as a foundation before diving deeper into web security.
-- 🔐 **Cybersecurity & Recon:** Practicing penetration testing and network diagnostics on **Hack The Box** (working toward **HTB CJCA**) using Linux, packet inspection, and recon tooling.
-- 🐧 **Daily Environment:** Dual-booting **Parrot OS** and **Windows 11**, working with shell scripting, Dockerized services, and hands-on lab setups.
+- **Systems programming:** C/C++, manual memory management, sockets, processes, signals. I debug with Valgrind, ASan and gdb.
+- **Networking:** TCP/IP, non-blocking I/O, packet inspection with Wireshark, recon with Nmap.
+- **Security:** web and network pentesting practice on Hack The Box. I'm working toward CJCA.
+- **Backend & tooling:** Python, Bash, Docker, Linux (Parrot OS daily driver).
 
----
+## Projects
 
-## 🚀 Featured Projects
+**[C Garbage Collector](link)**
+Mark-and-sweep garbage collector in C. [One line: how it finds roots, e.g. scans the stack/registers, or tracks allocations via a wrapper.] Tested with [Valgrind / test suite]. [GIF or benchmark here.]
 
-- 🧹 **C Garbage Collector (`C_Garbage_Collector`):** Custom memory management and garbage collection implementation in C to handle heap allocation lifecycle cleanly.
-- 🎮 **3D Raycasting Engine (`cub3D`):** Real-time first-person raycasting engine built in C with texture mapping and rendering math.
-- 💬 **Non-Blocking IRC Server (`ft_IRC`):** Internet Relay Chat server written in C++ using non-blocking sockets and `poll()` event multiplexing.
-- 🐚 **Custom Unix Shell (`Minishell`):** Collaborative Unix shell implementation handling command parsing, environment variables, pipes, and redirections.
-- 🐳 **Multi-Container Infrastructure (`Inception`):** Containerized web and database stack using Docker, NGINX, WordPress, and MariaDB on Linux.
+**[ft_IRC](link)**
+IRC server in C++98 using non-blocking sockets and `poll()`. Handles [N] concurrent clients, channels, operators, and [modes/file transfer]. Works with [irssi / WeeChat / HexChat].
 
----
+**[cub3D](link)**
+First-person 3D engine in C using DDA raycasting, textured walls, and [minimap/sprites]. [Screenshot/GIF here.]
 
-## 🎯 Focus & Milestones
+**[Minishell](link)**
+Unix shell in C: parser, pipes, redirections, heredocs, signals, env expansion. Built as a team of 2.
 
-- 🛡️ **Hack The Box Labs & CJCA Prep:** Hands-on machine exploitation (including boxes like *Lame* and *Blue*) and structured cybersecurity training.
-- 🧩 **Algorithmic & C Problem Solving:** Continuous practice in low-level data structures, pointers, and edge-case debugging.
-- ⚙️ **Web & Backend Foundations:** Strengthening backend and web architecture skills via [Boot.dev](https://www.boot.dev/u/tilmide) so I can approach web security with a clear understanding of how applications work under the hood.
-- 📚 **Continuous Skill Growth:** Sharpening technical English toward **B2** and staying consistent with daily habits and calisthenics.
+**[Inception](link)**
+Multi-container stack (NGINX + WordPress + MariaDB) with Docker Compose, TLS, and persistent volumes. No prebuilt images.
 
----
+## Security work
 
-## 💻 Tech Stack & Security Tools
+- Hack The Box: [X] machines rooted, [rank]. Write-ups: [link to writeups repo].
+- [Best write-up title]: [one line on the technique]
 
-### Languages & Scripting
-![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=38BDF8)
-![C++](https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=c%2B%2B&logoColor=38BDF8)
-![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=38BDF8)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=38BDF8)
-![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=38BDF8)
+## Right now
 
-### Systems, Containers & Dev Workflow
-![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=2DD4BF)
-![Parrot OS](https://img.shields.io/badge/Parrot_OS-0d1117?style=for-the-badge&logo=parrotsecurity&logoColor=2DD4BF)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2DD4BF)
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=2DD4BF)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=2DD4BF)
+- 🔨 Building [current project, with link]
+- 📖 Preparing for HTB **CJCA**
+- 🐍 Writing Python tooling for [recon/automation, be specific]
 
-### Security & Networking Labs
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=38BDF8)
-![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logo=linux&logoColor=9FEF00)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=9FEF00)
-![Hack The Box](https://img.shields.io/badge/Hack_The_Box-0d1117?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+## Work with me
 
----
+I'm a good fit if you need:
+- A junior who writes careful C/C++ and understands what happens below the abstraction
+- Help with network services, scripts, automation, or a security-minded code review
+- Someone who ships, communicates clearly, and learns fast
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.shion.dev/api?username=HamzaBenMohamd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-<br>
-<img src="https://streak-stats.demolab.com/?user=HamzaBenMohamd&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<br>
-<img src="https://github-readme-stats.shion.dev/api/top-langs/?username=HamzaBenMohamd&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-<i>To get something you never had, you have to do something you never did.</i>
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0284c7,100:7c3aed&height=140&section=footer&animation=fadeIn" alt="footer wave" />
-
-</div>
+**Available:** [remote / internship / freelance, hours per week, timezone: GMT/UTC+1]
+**Languages:** Arabic, French, English
+**Contact:** [your@email.com](mailto:your@email.com)
