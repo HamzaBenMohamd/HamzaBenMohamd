@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0284c7,100:7c3aed&height=165&section=header&text=Hamza%20Ben%20Mohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,50:0284c7,100:7c3aed&height=165&section=header&text=Hamza%20BenMohamd&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn" width="100%" alt="header wave">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&height=45&lines=Systems+Programmer+%E2%80%A2+C+%2F+C%2B%2B;Learning+Python+%26+Go+%E2%80%A2+Backend+%E2%86%92+Web+Security;Learning+to+build+security+tools%2C+not+just+use+them;Open+to+internships%2C+remote+roles+%26+freelance" alt="typing banner">
 
