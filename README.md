@@ -71,7 +71,8 @@ All built at 1337. Team projects are marked, with my part.
 Available for **internships, remote jobs, and freelance**. Timezone: Morocco (UTC+1).
 
 Good fit if you need a junior who:
-- writes careful C/C++ and wants to understand what's under the abstraction
+- writes careful C/C++, Python and Go, and wants to understand what's under the hood
+- can automate tasks with Python scripts
 - works well in a team (3 of my 5 projects are team builds)
 - learns fast and ships
 
