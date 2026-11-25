@@ -16,8 +16,7 @@
 ---
 
 ## 👋 Hey, I'm Hamza
-
-Student at **1337 (42 Network)**, Morocco. I'm learning to code for one reason: I want to be a good hacker, which means building my own tools instead of only running other people's. So I start at the bottom: C and C++, memory, sockets, processes. Then I take those foundations into security and web.
+I spent 2 years at **1337 (42 Network)**, Morocco, building systems projects in C and C++. I'm learning to code for one reason: I want to be a good hacker, which means building my own tools instead of only running other people's. So I started at the bottom: memory, sockets, processes. Now I'm carrying those foundations into backend and security, on my own, through Boot.dev and HTB Academy.
 
 **I'm looking for:** internships, remote junior roles, and freelance work in systems, backend, or security.
 
@@ -31,7 +30,7 @@ Student at **1337 (42 Network)**, Morocco. I'm learning to code for one reason: 
 
 ## 🚀 Projects
 
-All built at 1337. Team projects are marked, with my part.
+Built during my 2 years at 1337 (42 Network). Team projects are marked, with my part.
 
 | Project | What it is | Under the hood |
 |---|---|---|
