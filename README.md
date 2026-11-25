@@ -68,7 +68,7 @@ All built at 1337. Team projects are marked, with my part.
 
 ## 🤝 Work with me
 
-Available for **internships, remote jobs, and freelance**. Timezone: Morocco (UTC+1).
+Available for **internships, remote jobs, and freelance**.
 
 Good fit if you need a junior who:
 - writes careful C/C++, Python and Go, and wants to understand what's under the hood
